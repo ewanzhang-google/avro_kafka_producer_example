@@ -1,0 +1,5 @@
+com/google/example/User.class
+com/google/example/App.class
+com/google/example/UserProducer.class
+com/google/example/SendCallback.class
+com/google/example/User$Builder.class

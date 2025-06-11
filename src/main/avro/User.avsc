@@ -1,0 +1,9 @@
+{
+  "namespace": "com.google.example",
+  "type": "record",
+  "name": "User",
+  "fields": [
+    {"name": "name", "type": "string"},
+    {"name": "id",  "type": ["int", "null"]}
+  ]
+}
