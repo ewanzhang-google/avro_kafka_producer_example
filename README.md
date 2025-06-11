@@ -1,1 +1,1 @@
-# avro_kafka_producer_example
+This repo shows the complete code example of a Apache Maven project for a producer client to send messages to a Managed Kafka cluster. The complete steps are detailed in the following blog post:
